@@ -5,17 +5,17 @@
 <h3 align="center">A passionate coder</h3>
 <img  align="right" width="400"   src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNsaXF0aWJlOTh6NWZ0d25lbDBhbW45NWhya2dzYWtobXF3M3Z4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt=">
 
-- 🌱 I’m currently learning **MERN JAVA C/C++**
+* 🌱 I’m currently learning **MERN JAVA C/C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sridhar1030?tab=repositories](https://github.com/Sridhar1030?tab=repositories)
+* 👨‍💻 All of my projects are available at [Repository](https://github.com/Sridhar1030?tab=repositories)
 
-- Leetcode [https://leetcode.com/sridharpillai75/](https://leetcode.com/sridharpillai75/)
+* Leetcode [https://leetcode.com/sridharpillai75/](https://leetcode.com/sridharpillai75/)
 
-- 💬 Ask me about **React**
+* 💬 Ask me about **React**
 
-- 📫 How to reach me **sridharpillai75@gmail.com**
+* 📫 How to reach me **sridharpillai75@gmail.com**
 
-- Linkedin [https://www.linkedin.com/in/sridharpillai/](https://www.linkedin.com/in/sridharpillai/)
+* Linkedin [https://www.linkedin.com/in/sridharpillai/](https://www.linkedin.com/in/sridharpillai/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
