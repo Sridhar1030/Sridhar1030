@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sridhar Pillai</h1>
-
+<h1></h1>
 <img  align="right" width="400"   src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNsaXF0aWJlOTh6NWZ0d25lbDBhbW45NWhya2dzYWtobXF3M3Z4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt=">
 # 💫 About Me:
 <br>🌱 I’m currently learning : MERN , JAVA , Python<br>💬 Ask me about : React , C++<br>
