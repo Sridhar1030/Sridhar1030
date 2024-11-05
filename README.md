@@ -1,15 +1,17 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
+
+
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
+
 
 <h1 align="center">Hi 👋, I'm Sridhar Pillai</h1>
-<img align="right" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNsaXF0aWJlOTh6NWZ0d25lbDBhbW45NWhya2dzYWtobXF3M3Z4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="">
-
+<h1></h1>
+<img  align="right" width="400"   src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNsaXF0aWJlOTh6NWZ0d25lbDBhbW45NWhya2dzYWtobXF3M3Z4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt=">
 # 💫 About Me:
-🌱 I’m currently learning: MERN, JAVA, Python  
-💬 Ask me about: React, C++
+<br>🌱 I’m currently learning : MERN , JAVA , Python<br>💬 Ask me about : React , C++<br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sridharpillai) 
-
 # 💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
@@ -48,11 +50,9 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sridhar1030&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sridhar1030&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sridhar1030&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sridhar1030&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sridhar1030&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
-
 [![](https://visitcount.itsvg.in/api?id=Sridhar1030&icon=0&color=0)](https://visitcount.itsvg.in)
-](https://github.com/Sridhar1030/Sridhar1030/commit/225cebfc4c1520f45d4c14c511158c3b07743e93)
