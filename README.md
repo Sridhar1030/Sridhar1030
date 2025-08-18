@@ -1,4 +1,4 @@
-
+t
 
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 
@@ -12,7 +12,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sridharpillai)[![Website](https://img.shields.io/badge/website-494A8C)](https://www.sridharpillai.me/)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2)](https://linkedin.com/in/sridharpillai)[![Website](https://img.shields.io/badge/website-494A8C)](https://www.sridharpillai.me/)
 
 
 # 💻 Tech Stack:
