@@ -10,7 +10,8 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2)](https://linkedin.com/in/sridharpillai)[![Website](https://img.shields.io/badge/website-494A8C)](https://www.sridharpillai.me/)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2)](https://linkedin.com/in/sridharpillai)
+[![Website](https://img.shields.io/badge/website-494A8C)](https://www.sridharpillai.me/)
 
 
 # 💻 Tech Stack:
